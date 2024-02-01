@@ -21,6 +21,7 @@ fun LoginScreen(
     navController: NavController? = null
 ) {
     Column(
+
         modifier = Modifier
             .fillMaxSize()
             .background(Color.White)
